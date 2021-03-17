@@ -1,1 +1,1 @@
-# Task_1_Supervised_ML
+# Internship Tasks given by the Sparks Foundation
